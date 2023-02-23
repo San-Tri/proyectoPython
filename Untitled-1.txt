@@ -1,0 +1,5 @@
+#utilizando los comandos de la suma:
+#ingresar variables-
+a=12
+b=14
+#resultados de la suma en la siguiente actualizacion
