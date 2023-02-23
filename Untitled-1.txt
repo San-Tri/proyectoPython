@@ -2,4 +2,7 @@
 #ingresar variables-
 a=12
 b=14
-#resultados de la suma en la siguiente actualizacion
+# imprimiendo el resultado de la suma 
+print("la suma es",a+b)
+
+#las variables de la multiplicacion en la siguiente clase
