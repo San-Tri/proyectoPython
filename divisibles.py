@@ -9,3 +9,7 @@ def divisibleX5(lista):
         i += 1
     #usamos la variable return para devolver el valor
     return res
+# difinimos los numeros para sacarles los divisibles 
+numeros = [5,9,10,14,15,25,29,35,40]
+divisibles = divisibleX5(numeros)
+print(divisibles)
