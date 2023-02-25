@@ -7,3 +7,5 @@ def divisibleX5(lista):
         if lista[i] % 5 == 0:
             res.append(lista[i])
         i += 1
+    #usamos la variable return para devolver el valor
+    return res
